@@ -6,13 +6,15 @@
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Zeynep Ergen: Ürün Sahibi
+- Cahit Enes Şahin: Scrum Master 
+-  Ömer  Faruk Karaca: Ekip Üyesi/Geliştirici
+-  Emine Deniz: Ekip Üyesi/Geliştirici
+-  Ece İrey: Ekip Üyesi/Geliştirici
 
 ## Ürün İsmi
 
---Movie App--
+-Hector
 
 ## Ürün Açıklaması
 
