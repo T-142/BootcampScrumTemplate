@@ -22,7 +22,7 @@ Hector
 
 ## Ürün Özellikleri
 
--  Basit görüknürlük.
+-  Basit görünürlük.
 -  Kolay oynanabilirlik.
 -  Sürükleyicilik.
 
