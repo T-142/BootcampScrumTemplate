@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+142 Takımı
 
 # Ürün İle İlgili Bilgiler
 
