@@ -65,8 +65,9 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 - **Sprint Retrospective:**
   - Karakterimizin modellenmesi ve karakterimizin  temel hareketleri kodlanması gerekiyordu. Level tasarımında  belirli bir aşamaya kadar gelmemiz  gerekiyordu. Bunları zamanında ve daha iyi yapmalıyız.
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Araştırmamalarımızı iyi yaptığımızı düşünüyoruz çok iyi kaynaklar bulduk bunları birbirimizle paylaştık. Takım içi iletişimimizi çok iyi seviyede tuttuk.
+  - Vaktimizi  iyi yönetemedik. Bazı konularda yavaş kaldık. Çalışmalarımızı hızlandırmalıyız.
+  - Projeye odaklanmalıyız bazı konuları çok detaylı düşünüyoruz bütüne odaklanmalıyız detaylı düşünmeyi durdurmalıyız. 
 
 -**Diğer Notlar**:
 - N/A
