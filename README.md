@@ -50,7 +50,7 @@ Hector
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/T-142/BootcampScrumTemplate/blob/be9ca46c99f224ecce8493f5fdbbf3aefdf64501/DAILY%20SCRUM%20CHATS,%20ZOOM.docx 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats_. (https://github.com/T-142/BootcampScrumTemplate/blob/be9ca46c99f224ecce8493f5fdbbf3aefdf64501/DAILY%20SCRUM%20CHATS,%20ZOOM.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/T-142/BootcampScrumTemplate/blob/ef37bae2cf55f835a68433f8b92525c78876b11e/WhatsApp%20Image%202022-05-10%20at%2001.36.05.jpeg)
