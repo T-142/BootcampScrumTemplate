@@ -18,7 +18,7 @@ Hector
 
 ## Ürün Açıklaması
 
-- Hector oyunumuzda  gelecek için oyuncuyu haber vermek.
+- Hector oyunu, çeşitli görevler yaparak ve düşmanlarla savaşarak dünyayı daha iyi hale getirmek için çabalayan bir kahramanın maceralarını içeren bir oyundur. Hector oyunumuzda gelecek için oyuncuyu haber vermek.
 
 ## Ürün Özellikleri
 
