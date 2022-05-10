@@ -18,7 +18,7 @@ Hector
 
 ## Ürün Açıklaması
 
-- Hector oyunu, çeşitli görevler yaparak ve düşmanlarla savaşarak dünyayı daha iyi hale getirmek için çabalayan bir kahramanın maceralarını içeren bir oyundur. Hector oyunumuzda gelecek için oyuncuyu haber vermek.
+- Hector oyunu, çeşitli görevler yaparak ve düşmanlarla savaşarak dünyayı daha iyi hale getirmek için çabalayan bir kahramanın maceralarını içeren bir oyundur. Hector oyunumuzda  oyuncu gelecek için haber edilir.
 
 ## Ürün Özellikleri
 
@@ -44,7 +44,7 @@ Hector
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktad. 3 script'e bölündüğünüğüne ilk 150'den sonra karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktadır. 3 sprint'e bölündüğünde ilk 50 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
