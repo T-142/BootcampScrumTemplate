@@ -63,8 +63,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/ss2.JPG)
   ![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/ss3.JPG)
 
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- **Sprint Review**:
+- Bu sprint boyunca ürün fikir aşamasına çok vakit ayırdığımızı ve ürün oluşturmaya geç başladığımızı fark ettik. Diğer sprintlerde daha hızlı ve pratik olmamız kararlaştırıldı. İlk sprintin sonunda oluşturulan ürünün çalışmasında bir problemle karşılaşılmamıştır. Ürün üzerinde geliştirilecek olan çeşitli özellikler bu sprint süresince belirlenmiştir. 
+ Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
 
 - **Sprint Retrospective:**
   - Karakterimizin modellenmesi ve karakterimizin  temel hareketleri kodlanması gerekiyordu. Level tasarımında  belirli bir aşamaya kadar gelmemiz  gerekiyordu. Bunları zamanında ve daha iyi yapmalıyız.
