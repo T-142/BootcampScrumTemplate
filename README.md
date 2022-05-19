@@ -18,7 +18,7 @@ Hector
 
 ## Ürün Açıklaması
 
-- Hector oyunumuzda  gelecek için oyuncuyu haber vermek.
+- Hector oyunu, çeşitli görevler yaparak ve düşmanlarla savaşarak dünyayı daha iyi hale getirmek için çabalayan bir kahramanın maceralarını içeren bir oyundur. Hector oyunumuzda  oyuncu gelecek için haber edilir.
 
 ## Ürün Özellikleri
 
@@ -34,7 +34,7 @@ Hector
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO2FEw-0=/?share_link_id=28003678237)
 
 ---
 
@@ -44,30 +44,34 @@ Hector
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktad. 3 script'e bölündüğünüğüne ilk 150'den sonra karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktadır. 3 sprint'e bölündüğünde ilk 50 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+! [Sprint 1 Daily Scrum Sohbetleri ](https://github.com/T-142/BootcampScrumTemplate/blob/be9ca46c99f224ecce8493f5fdbbf3aefdf64501/DAILY%20SCRUM%20CHATS,%20ZOOM.docx) 
+
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/T-142/BootcampScrumTemplate/blob/ef37bae2cf55f835a68433f8b92525c78876b11e/WhatsApp%20Image%202022-05-10%20at%2001.36.05.jpeg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/T-142/BootcampScrumTemplate/blob/main/ss1.JPG)
+  ![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/ss2.JPG)
+  ![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/ss3.JPG)
 
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- **Sprint Review**:
+- Bu sprint boyunca ürün fikir aşamasına çok vakit ayırdığımızı ve ürün oluşturmaya geç başladığımızı fark ettik. Diğer sprintlerde daha hızlı ve pratik olmamız kararlaştırıldı. İlk sprintin sonunda oluşturulan ürünün çalışmasında bir problemle karşılaşılmamıştır. Ürün üzerinde geliştirilecek olan çeşitli özellikler bu sprint süresince belirlenmiştir. 
+ Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Karakterimizin modellenmesi ve karakterimizin  temel hareketleri kodlanması gerekiyordu. Level tasarımında  belirli bir aşamaya kadar gelmemiz  gerekiyordu. Bunları zamanında ve daha iyi yapmalıyız.
+  - Araştırmamalarımızı iyi yaptığımızı düşünüyoruz çok iyi kaynaklar bulduk bunları birbirimizle paylaştık. Takım içi iletişimimizi çok iyi seviyede tuttuk.
+  - Vaktimizi  iyi yönetemedik. Bazı konularda yavaş kaldık. Çalışmalarımızı hızlandırmalıyız.
+  - Projeye odaklanmalıyız bazı konuları çok detaylı düşünüyoruz bütüne odaklanmalıyız detaylı düşünmeyi durdurmalıyız. 
 
 -**Diğer Notlar**:
 - N/A
