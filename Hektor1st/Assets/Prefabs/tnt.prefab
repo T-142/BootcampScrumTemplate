@@ -128,4 +128,4 @@ MonoBehaviour:
   _trigger: 0.5
   _radius: 5
   _force: 500
-  _particle: {fileID: 1713398056093156056, guid: 68fd0350a5205ba4a940dcb756f5f4e4, type: 3}
+  _particle: {fileID: 4908477095604636496, guid: 3b61eab8d41ab4f46a89ee54affc9d39, type: 3}
