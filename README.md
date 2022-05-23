@@ -97,7 +97,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 **Ürün Durumu**: Ekran Görüntüleri
 ![Screenshot 1](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss2.png)
-![Screenshot 2]()
+![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss3.png)
 # Sprint 3
 
 ---
