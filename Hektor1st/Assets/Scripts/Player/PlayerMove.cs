@@ -13,6 +13,9 @@ namespace CompleteProject
         Animator anim;                      // Reference to the animator component.
         Rigidbody playerRigidbody;          // Reference to the player's rigidbody.
         public bool walking;
+
+        public Vector3 jump;
+        public float jumpForce = 2.0f;
 #if !MOBILE_INPUT
         int floorMask;                      // A layer mask so that a ray can be cast just at gameobjects on the floor layer.
         float camRayLength = 100f;          // The length of the ray from the camera into the scene.
@@ -28,6 +31,7 @@ namespace CompleteProject
             // Set up references.
             anim = GetComponent<Animator>();
             playerRigidbody = GetComponent<Rigidbody>();
+            jump = new Vector3(0.0f, 1.0f, 0.0f);
         }
 
 
@@ -37,8 +41,14 @@ namespace CompleteProject
             float h = Input.GetAxisRaw("Horizontal");
             float v = Input.GetAxisRaw("Vertical");
 
-            // Move the player around the scene.
-            Move(h, v);
+            if (Input.GetKey(KeyCode.Space))
+            {
+
+                playerRigidbody.AddForce(jump * jumpForce, ForceMode.Impulse);
+            }
+
+                // Move the player around the scene.
+                Move(h, v);
 
             // Turn the player to face the mouse cursor.
             Turning();
