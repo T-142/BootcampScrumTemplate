@@ -107,8 +107,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Ekran görüntüsü 2022-05-22 024654](https://user-images.githubusercontent.com/104400983/169907716-cebba037-f7b9-48e3-90dc-37e3981ce7d2.png)
 
 
-- **Sprint Review**: 
-- 2. sprint boyunca 1. sprint sürecinde belirlediğimiz eksiklikleri tamamlamaya çalıştık. 2. sprintte öncelikle 1. sprint retrospective toplantısında belirlediğimiz oyunun çeşitli eksikliklerinin bir çok kısmını tamamlamış bulunmaktayız 1. Sprinte göre daha hızlı çalışmaya başladık. Bu sprintteki çalışma hızımız artış gösterdi fakat son sprint için daha hızlı ve daha verimli bir şekilde çalışmamız kararlaştırıldı. Bu sprintte oyunumuzun ana karakteri olan Hector'un tasarımı ve modellemesinin büyük bir kısmı tamamlanmıştır.  İkinci sprintin sonunda düzenlenen ürünün çalışmasında bir sorunla karşılaşılmamıştır. Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
+- **Sprint Review**: 2. sprint boyunca 1. sprint sürecinde belirlediğimiz eksiklikleri tamamlamaya çalıştık. 2. sprintte öncelikle 1. sprint retrospective toplantısında belirlediğimiz oyunun çeşitli eksikliklerinin bir çok kısmını tamamlamış bulunmaktayız 1. Sprinte göre daha hızlı çalışmaya başladık. Bu sprintteki çalışma hızımız artış gösterdi fakat son sprint için daha hızlı ve daha verimli bir şekilde çalışmamız kararlaştırıldı. Bu sprintte oyunumuzun ana karakteri olan Hector'un tasarımı ve modellemesinin büyük bir kısmı tamamlanmıştır.  İkinci sprintin sonunda düzenlenen ürünün çalışmasında bir sorunla karşılaşılmamıştır. Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
 
 - **Sprint Retrospective:**
 - Eksik olarak level design ve oyunun ana karakterinin tamamen modellenmesi konusu var. Bu iki görevi tamamlamız gerekiyor.
