@@ -34,7 +34,7 @@ Hector
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVO2FEw-0=/?share_link_id=28003678237)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO1YjJ6g=/)
 
 ---
 
@@ -44,7 +44,7 @@ Hector
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktadır. 3 sprint'e bölündüğünde ilk 50 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık bulunmaktadır. 3 sprint'e bölündüğünde ilk 50 ile başlaması gerektiğine karar verilmiştir.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -79,10 +79,22 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ---
 
 # Sprint 2
+**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+**Sprint içinde tamamlanması tahmin edilen puan**: 200 puan
 
----
+**Puan Tamamlama Mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Sprint 2 sonunda 200 puana ulaşılması gerektiğine karar verilmiştir.
 
+**Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+**Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+**Sprint Board Update**: Sprint board screenshotları: 
+![Backlog 2](https://github.com/T-142/BootcampScrumTemplate/blob/a5d51ed826ad3dc9eacf6fef5d8999029196af61/2022-05-23%20(1).png)
+
+**Ürün Durumu**:
 # Sprint 3
 
 ---
