@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2022-05-22 024654](https://user-images.githubusercontent.com/104400983/169907716-cebba037-f7b9-48e3-90dc-37e3981ce7d2.png)
+
 # **Takım İsmi**
 
 142 Takımı
@@ -102,6 +102,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss2.png)
 ![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss3.png)![Ekran görüntüsü 2022-05-23 232758](https://user-images.githubusercontent.com/104400983/169907597-8ef5bc98-7f1c-484e-9021-15b536c4fc6d.png)
 ![Ekran görüntüsü 2022-05-23 232925](https://user-images.githubusercontent.com/104400983/169907625-8908e15b-4209-4eab-a9eb-745fd5b5624c.png)
+![Ekran görüntüsü 2022-05-22 024654](https://user-images.githubusercontent.com/104400983/169907716-cebba037-f7b9-48e3-90dc-37e3981ce7d2.png)
 
 
 - **Sprint Review**: 2. sprint boyunca 1. sprint sürecinde belirlediğimiz eksiklikleri tamamlamaya çalıştık. 2. sprintte öncelikle 1. sprint retrospective toplantısında belirlediğimiz oyunun çeşitli eksikliklerinin bir çok kısmını tamamlamış bulunmaktayız 1. Sprinte göre daha hızlı çalışmaya başladık. Bu sprintteki çalışma hızımız artış gösterdi fakat son sprint için daha hızlı ve daha verimli bir şekilde çalışmamız kararlaştırıldı. Bu sprintte oyunumuzun ana karakteri olan Hector'un tasarımı ve modellemesinin büyük bir kısmı tamamlanmıştır.  İkinci sprintin sonunda düzenlenen ürünün çalışmasında bir sorunla karşılaşılmamıştır. Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
