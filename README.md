@@ -1,3 +1,4 @@
+![Ekran görüntüsü 2022-05-22 024654](https://user-images.githubusercontent.com/104400983/169907716-cebba037-f7b9-48e3-90dc-37e3981ce7d2.png)
 # **Takım İsmi**
 
 142 Takımı
