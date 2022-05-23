@@ -92,7 +92,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 **Sprint Board Update**: Sprint board screenshotları: 
-![Backlog 2](https://github.com/T-142/BootcampScrumTemplate/blob/a5d51ed826ad3dc9eacf6fef5d8999029196af61/2022-05-23%20(1).png)
+![Backlog 2](https://github.com/T-142/BootcampScrumTemplate/blob/413aa9fc26e1a7dda52556096473875e00941635/Sprint%202-Backlog.png)
 
 **Ürün Durumu**: Ekran Görüntüleri
 ![Screenshot 1](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss1.png)
