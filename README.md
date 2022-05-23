@@ -34,7 +34,7 @@ Hector
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVO2FEw-0=/?share_link_id=28003678237)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO1YjJ6g=/)
 
 ---
 
