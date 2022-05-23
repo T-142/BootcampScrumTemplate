@@ -94,7 +94,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 **Sprint Board Update**: Sprint board screenshotları: 
 ![Backlog 2](https://github.com/T-142/BootcampScrumTemplate/blob/a5d51ed826ad3dc9eacf6fef5d8999029196af61/2022-05-23%20(1).png)
 
-**Ürün Durumu**:
+**Ürün Durumu**: Ekran Görüntüleri
+![Screenshot 1](https://github.com/T-142/BootcampScrumTemplate/blob/main/sss1.JPG)
+![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/sss2.JPG)
+![Screenshot 2](https://github.com/T-142/BootcampScrumTemplate/blob/main/sss3.JPG)
 # Sprint 3
 
 ---
