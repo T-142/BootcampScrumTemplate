@@ -100,6 +100,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Screenshot 1](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss2.png)
 ![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/sss3.png)
+
+- **Sprint Review**: 2. sprint boyunca 1. sprint sürecinde belirlediğimiz eksiklikleri tamamlamaya çalıştık. 2. sprintte öncelikle 1. sprint retrospective toplantısında belirlediğimiz oyunun çeşitli eksikliklerinin bir çok kısmını tamamlamış bulunmaktayız 1. Sprinte göre daha hızlı çalışmaya başladık. Bu sprintteki çalışma hızımız artış gösterdi fakat son sprint için daha hızlı ve daha verimli bir şekilde çalışmamız kararlaştırıldı. Bu sprintte oyunumuzun ana karakteri olan Hector'un tasarımı ve modellemesinin büyük bir kısmı tamamlanmıştır.  İkinci sprintin sonunda düzenlenen ürünün çalışmasında bir sorunla karşılaşılmamıştır. Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
+
+- **Sprint Retrospective:**
+- Eksik olarak level design ve oyunun ana karakterinin tamamen modellenmesi konusu var. Bu iki görevi tamamlamız gerekiyor.
+- Karakterimizin modellenmesi ve karakterimizin temel hareketleri kodlamalarını tamamladık. Doğru yolda olduğumuza inanıyoruz ve ilerleme kaydedidiyoruz.
+- Aramızdaki iletişimi iyi bir seviyede tutuyoruz. Sürekli bağlantıda kalıyoruz. Kararlaştırdığımız fikirleri iyi bir şekilde uygulayabiliyoruz.
+- İlk sprintte üreteceğimiz oyunun çeşitli kısımlarını yaparken çok vakit kaybediyorduk. Bu sprintte  bu durumu daha iyi bir seviyeye getirdik fakat bu seviyeninde yeterli olmadığını düşünüyoruz. Ekip olarak bu hızımızı arttırmamız kararlaştırıldı.
+- Yavaş olarak çalışmayı ve oyunu üretirken kısıtlı bir zamanımız olduğu için çeşitli şeylerin üzerinde çok düşünmeyi bırakmalıyız.   
+
+
 # Sprint 3
 
 ---
