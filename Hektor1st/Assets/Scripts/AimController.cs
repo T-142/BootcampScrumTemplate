@@ -23,10 +23,11 @@ public class AimController : MonoBehaviour
     {
         Aim();
             
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButton(0))
         {
             GameObject _projectile = Instantiate(_projectilePrefab, _hole.position, _hole.rotation);
             _projectile.GetComponent<Rigidbody>().AddRelativeForce(new Vector3(0, 0, 2000));
+            Destroy(_projectile, 1.0f);
         }
         if (Input.GetMouseButtonDown(1))
         {

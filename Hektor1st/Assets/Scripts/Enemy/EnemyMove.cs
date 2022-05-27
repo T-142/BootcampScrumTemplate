@@ -3,6 +3,7 @@ using System.Collections;
 
 namespace CompleteProject
 {
+    
     public class EnemyMove : MonoBehaviour
     {
         Transform player;               // Reference to the player's position.
@@ -10,7 +11,7 @@ namespace CompleteProject
         //EnemyHealth enemyHealth;        // Reference to this enemy's health.
         UnityEngine.AI.NavMeshAgent nav;               // Reference to the nav mesh agent.
 
-
+        public ParticleSystem _particle;
         void Awake ()
         {
             // Set up the references.
@@ -35,6 +36,13 @@ namespace CompleteProject
                 // ... disable the nav mesh agent.
                 //nav.enabled = false;
             //}
+        }
+        private void OnTriggerEnter(Collider other)
+        {
+            if (other.gameObject.CompareTag("Bullet"))
+            {
+                _particle.Play();
+            }
         }
     }
 }
