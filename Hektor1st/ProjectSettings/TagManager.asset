@@ -6,14 +6,16 @@ TagManager:
   tags:
   - Enemy
   - Bullet
+  - Floor
+  - Shootable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Shootable
   - Water
   - UI
-  - 
+  - Floor
   - 
   - 
   - 

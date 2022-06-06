@@ -37,12 +37,5 @@ namespace CompleteProject
                 //nav.enabled = false;
             //}
         }
-        private void OnTriggerEnter(Collider other)
-        {
-            if (other.gameObject.CompareTag("Bullet"))
-            {
-                _particle.Play();
-            }
-        }
     }
 }

@@ -10,7 +10,6 @@ public class HektorController : MonoBehaviour
     [SerializeField] private float _turnSpeed = 360.0f;
     [SerializeField] GameObject _bomb;
     [SerializeField] Transform _bombHole;
-    [SerializeField] private float _velocity = 10;
     private void Update()
     {
         //if (Input.GetMouseButtonDown(0))

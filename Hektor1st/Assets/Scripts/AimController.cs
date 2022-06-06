@@ -11,12 +11,14 @@ public class AimController : MonoBehaviour
     public GameObject _projectilePrefab;
     public GameObject _projectileBombPrefab;
     public Transform _hole;
+    Animator anim;
 
 
     private void Start()
     {
         // Cache the camera, Camera.main is an expensive operation.
         mainCamera = Camera.main;
+        anim = GetComponent<Animator>();
     }
 
     private void Update()
@@ -25,9 +27,14 @@ public class AimController : MonoBehaviour
             
         if (Input.GetMouseButton(0))
         {
+            anim.SetBool("Fire", true);
             GameObject _projectile = Instantiate(_projectilePrefab, _hole.position, _hole.rotation);
             _projectile.GetComponent<Rigidbody>().AddRelativeForce(new Vector3(0, 0, 2000));
             Destroy(_projectile, 1.0f);
+        }
+        if (Input.GetMouseButtonUp(0))
+        {
+            anim.SetBool("Fire", false);
         }
         if (Input.GetMouseButtonDown(1))
         {
