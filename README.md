@@ -141,6 +141,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 **Sprint Board Update**:  Sprint board screenshotları: 
 ![Backlog 3](https://github.com/T-142/BootcampScrumTemplate/blob/8c29e1990dc59cb1f856de820145b9f431b8fc28/2022-06-06%20(2).png)
 
-**Ürün Durumu**: Ekran Görüntüleri
+- **Sprint Review**: 3. sprint boyunca 2. sprintte eksik bulduğumuz yerleri en iyi şekilde tamamlamaya çalıştık. 2. sprintte oyunumuzda yapamadığımız yerleri tamamlamış bulunmaktayız. 2. sprinte göre daha hızlı çalıştık ve oyunumuzu tamamladık. 3. sprintin sonunda düzenlenen ürünün çalışmasında bir sorunla karşılaşılmamıştır. Sprint Review katılımcıları: Ömer Faruk Karaca, Zeynep Ergen, Ece İrey, Emine Deniz, Cahit Enes Şahin.
+
+- **Sprint Retrospective:**
+- Oyunumuzdaki karakterimize can barı ekledik.
+- Oyunumuza giriş menüsü ve pause menü ekledik.
+- Eksik olduğumuz level design konusu vardı. Bu konuyu tamamlamış bulunmaktayız.
+- Bu sprintte oyunumuzdaki karakterimize çeşitli silahlar ekledik. Ayrıca silahlara ateş etme efektleri ekledik.
+- Bu sprintte karakterimizin savaşacağı düşman sayısını çoğalttık. Buna ek olarak düşmanlara hasar alma efekti ekledik.
 
 ---
