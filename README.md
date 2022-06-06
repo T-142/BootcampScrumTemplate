@@ -132,6 +132,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 ![Daily Scrum Sohbetleri](https://github.com/T-142/BootcampScrumTemplate/blob/8eb3c338242d3679661dd200d0e1b19a329b795d/3.DAILY%20SCRUM%20CHATS,%20ZOOM.docx)
 
+**Ürün Durumu**: Ekran Görüntüleri
+![Screenshot 1](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/11.JPG)
+![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/22.png)
+![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/33.png)
+![Screenshot 2](https://raw.githubusercontent.com/T-142/BootcampScrumTemplate/main/44.png)
+
 **Sprint Board Update**:  Sprint board screenshotları: 
 ![Backlog 3](https://github.com/T-142/BootcampScrumTemplate/blob/8c29e1990dc59cb1f856de820145b9f431b8fc28/2022-06-06%20(2).png)
 
